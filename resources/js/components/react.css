@@ -1,0 +1,17 @@
+.bg{
+	font-size: 25px;
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.banner{
+	background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+    height: 100vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background {
+   background-image: url("/background.jpg");
+}
